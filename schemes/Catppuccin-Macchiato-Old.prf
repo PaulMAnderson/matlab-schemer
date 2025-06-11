@@ -1,6 +1,6 @@
-# Catppuccin-Macchiato - MATLAB color scheme
-# Generated with schemer_export v1.4.0, on MATLAB 25.1.0.2943329 (R2025a)
-# Mon Jun 02 12:34:55 CEST 2025
+# MyScheme - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.5.0.944444 (R2018b)
+# Wed Jun 10 15:00:21 CEST 2020
 # To enable this color scheme in MATLAB use schemer_import, available at:
 #     https://github.com/scottclowe/matlab-schemer
 #     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
@@ -8,9 +8,9 @@ ColorsUseSystem=Bfalse
 ColorsUseMLintAutoFixBackground=Btrue
 Editor.VariableHighlighting.Automatic=Btrue
 Editor.NonlocalVariableHighlighting=Btrue
-EditorCodepadHighVisible=Bfalse
-EditorCodeBlockDividers=Bfalse
-Editorhighlight-caret-row-boolean=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Bfalse
 EditorRightTextLineVisible=Btrue
 EditorRightTextLimitLineWidth=I1
 ColorsText=C-3484683
@@ -27,7 +27,7 @@ ColorsMLintAutoFixBackground=C-14802896
 Editor.VariableHighlighting.Color=C-7103817
 Editor.NonlocalVariableHighlighting.TextColor=C-7219229
 Editorhighlight-lines=C-4669216
-Editorhighlight-caret-row-boolean-color=C-14206369
+Editorhighlight-caret-row-boolean-color=C-9538675
 EditorRightTextLimitLineColor=C-7103817
 Color_CmdWinWarnings=C-1140320
-Color_CmdWinErrors=C-1210474
+Color_CmdWinErrors=C-1210474 
